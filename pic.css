@@ -20,7 +20,7 @@ main{
 
 /* The title of the page */
 #title {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'montserrat', sans-serif;
     position: relative;   
 } #title::after{
     content: "";
@@ -38,7 +38,7 @@ main{
     gap: 50px;
 }#volunteer_name{
     font-size: 30px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'montserrat', sans-serif;
 }#volunteer_specialest{
     font-family: monospace;
     font-weight: bold;
@@ -54,7 +54,7 @@ main{
 
 /* Style for achievements section */
 #achievements_name{
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: 'montserrat', sans-serif;
 }
 #achievements_discription{
     margin-top: -15px;
